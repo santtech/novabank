@@ -5,9 +5,9 @@ import Transfer from "@/models/Transfer"
 import TransferMeta from "@/models/TransferMeta"
 
 const userData = {
-  "email": "Marinoalbertrichies@gmail.com",
+  "email": "kerribank@gmail.com",
   "password": "$2b$12$NPIepQ95eyoDnnnySom3zuxdkbBy0yonjnlZDgFddQJ2hOGu1uXsK",
-  "usercode": "N6twu",
+  "usercode": "N66wu",
   "roles": [
     "member"
   ],
